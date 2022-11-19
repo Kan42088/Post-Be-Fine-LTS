@@ -9,6 +9,9 @@
 - Hướng dẫn sử dụng tool.
 - Sửa lỗi hệ thống.
 
+*Bản 0.5.0:
+- Sửa thời gian up zip, tránh lỗi khi up zip.
+
 *Bản 0.4.0:
 - Mở trang và tự động add zip từ folder đã chọn trước đó theo mã sku lên sản phẩm.
 - Nút dừng tiến trình.
