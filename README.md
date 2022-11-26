@@ -4,6 +4,10 @@
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Bản ổn định hiện tại: None.
 
+*Bản 1.1.1:
+- Cập nhật logo ra bên ngoài app.
+- Các tags sẽ được lấy từ description của thẻ trello.
+
 *Bản 1.0.0:
 - Cập nhật logo.
 - Hướng dẫn sử dụng tool.
