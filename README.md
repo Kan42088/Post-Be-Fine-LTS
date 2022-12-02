@@ -4,7 +4,8 @@
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Bản ổn định hiện tại: None.
 
-*Bản 1.4.5:
+*Bản 1.5.3:
+- Bổ xung cơ chế tiếp tục luồng chạy khi đăng nhập thất bại.
 - Xóa dấu cách cuối snippet {title}.
 - Sửa lỗi Tag không hoạt động.
 - Anh hóa nội dung hiển thị.
