@@ -4,6 +4,10 @@
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Bản ổn định hiện tại: 1.5.3.
 
+*Bản 2.0.0:
+- Bổ sung tính năng xử lí ảnh trước khi tải lên shopify.
+- Tùy chọn cho phép xử lí ảnh trước khi tạo sản phẩm hoặc lấy ảnh trực tiếp từ nguồn ảnh để tạo ănh cho sản phẩm
+
 *Bản 1.5.6:
 - Sửa lỗi mô tả sản phẩm không tự động lưu.
 - Sửa lỗi tải link zip từ digitalocean.
