@@ -4,6 +4,9 @@
 - Đảm bảo cập nhật chromedriver.exe trùng với phiên bản chrome đang dùng được cài trên máy, cập nhật chromedriver.exe mới nhất tại https://chromedriver.chromium.org/downloads phiên bản cho win32. Tải chromedriver về, giải nén và replace vào thư mục chứa tool.
 - Bản ổn định hiện tại: 1.5.3.
 
+*Bản > 2.0.1:
+- Nằm trong mục release.
+
 *Bản 2.0.1:
 - Sửa lỗi không mở được thư mục chứa ảnh backgroud và watermark.
 
